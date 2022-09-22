@@ -54,4 +54,4 @@ net_info = {'dim' : 16,
 
 ## Demo codes
 
-To reproduce, run the following demo_shortestpaht.py , \_sort.pu, & \_physics.py.
+To reproduce, run the following demo_shortestpaht.py , \_sort.py, & \_physics.py.
