@@ -3,8 +3,6 @@
 [Graph Nets](https://github.com/deepmind/graph_nets) is DeepMind's library for
 building graph networks in Tensorflow and Sonnet.
 
-More details are in https://github.com/deepmind/graph_nets
-
 To learn more about graph networks, see our arXiv paper: [Relational inductive
 biases, deep learning, and graph networks](https://arxiv.org/abs/1806.01261).
 
@@ -15,23 +13,23 @@ Hyper-parameters are used as-is in the original code, but the inference results 
 ##### Sorest_path
 
 Results in the paper
-[Result in the paper](https://github.com/YunhyoungNam/Graph_Network_DeepMind2018_pytorch/tree/main/images/shortest-path.png)
+![Result in the paper](https://github.com/YunhyoungNam/Graph_Network_DeepMind2018_pytorch/tree/main/images/shortest-path.png)
 Results from pytorch implementation
-[Result pytorch code](https://github.com/YunhyoungNam/Graph_Network_DeepMind2018_pytorch/tree/main/images/shortest-path-pytorch.png)
+![Result pytorch code](https://github.com/YunhyoungNam/Graph_Network_DeepMind2018_pytorch/tree/main/images/shortest-path-pytorch.png)
 
 ##### Sort
 
 Results in the paper
-[Result in the paper](https://github.com/YunhyoungNam/Graph_Network_DeepMind2018_pytorch/tree/main/images/sort.png)
+![Result in the paper](https://github.com/YunhyoungNam/Graph_Network_DeepMind2018_pytorch/tree/main/images/sort.png)
 Results from pytorch implementation
-[Result pytorch code](https://github.com/YunhyoungNam/Graph_Network_DeepMind2018_pytorch/tree/main/images/sort-pytorch.png)
+![Result pytorch code](https://github.com/YunhyoungNam/Graph_Network_DeepMind2018_pytorch/tree/main/images/sort-pytorch.png)
 
 ##### Physics
 
 Results in the paper
-[Result in the paper](https://github.com/YunhyoungNam/Graph_Network_DeepMind2018_pytorch/tree/main/images/physics.png)
+![Result in the paper](https://github.com/YunhyoungNam/Graph_Network_DeepMind2018_pytorch/tree/main/images/physics.png)
 Results from pytorch implementation
-[Result pytorch code](https://github.com/YunhyoungNam/Graph_Network_DeepMind2018_pytorch/tree/main/images/physics-pytorch.png)
+![Result pytorch code](https://github.com/YunhyoungNam/Graph_Network_DeepMind2018_pytorch/tree/main/images/physics-pytorch.png)
 
 ## Usage example
 
