@@ -24,7 +24,7 @@ Results in the paper
 ![sort](https://user-images.githubusercontent.com/66901621/191694069-fef0f701-b949-4758-92b6-c8b019bf39d8.png)
 
 Results from pytorch implementation
-![sort-pytorch](https://user-images.githubusercontent.com/66901621/191692460-7ead52e2-32de-4b52-a376-c5b878e43705.png)
+![sort-pytorch](https://user-images.githubusercontent.com/66901621/191694450-c30c46ad-af56-4031-9caa-5327e2d4f31b.png)
 
 ##### Physics
 
