@@ -10,7 +10,7 @@ biases, deep learning, and graph networks](https://arxiv.org/abs/1806.01261).
 
 Hyper-parameters are used as-is in the original code, but the inference results are from other examples.
 
-\*Sorest_path
+##### Sorest_path
 
 Results in the paper
 ![shortest-path](https://user-images.githubusercontent.com/66901621/191691901-886fb80e-42b3-47a8-81bd-ec6ad413049a.png)
@@ -18,15 +18,15 @@ Results in the paper
 Results from pytorch implementation
 ![shortest-path-pytorch](https://user-images.githubusercontent.com/66901621/191692240-3af9e356-0ec9-4c95-ac82-a9d441c57661.png)
 
-\*Sort
+##### Sort
 
 Results in the paper
-![sort-paper](https://user-images.githubusercontent.com/66901621/191692359-cf8754b4-e99e-4c8f-aae6-aef55d52fc59.png)
+![sort](https://user-images.githubusercontent.com/66901621/191694069-fef0f701-b949-4758-92b6-c8b019bf39d8.png)
 
 Results from pytorch implementation
 ![sort-pytorch](https://user-images.githubusercontent.com/66901621/191692460-7ead52e2-32de-4b52-a376-c5b878e43705.png)
 
-\*Physics
+##### Physics
 
 Results in the paper
 ![physics](https://user-images.githubusercontent.com/66901621/191692555-f576fdc9-b603-4aba-8a52-85ffe6194b81.png)
