@@ -10,26 +10,29 @@ biases, deep learning, and graph networks](https://arxiv.org/abs/1806.01261).
 
 Hyper-parameters are used as-is in the original code, but the inference results are from other examples.
 
-##### Sorest_path
+##### Sorest_path![sort-paper](https://user-images.githubusercontent.com/66901621/191692359-cf8754b4-e99e-4c8f-aae6-aef55d52fc59.png)
 
 Results in the paper
-![Result in the paper](https://github.com/YunhyoungNam/Graph_Network_DeepMind2018_pytorch/tree/main/images/shortest-path.png)
+![shortest-path](https://user-images.githubusercontent.com/66901621/191691901-886fb80e-42b3-47a8-81bd-ec6ad413049a.png)
+
 Results from pytorch implementation
-![Result pytorch code](https://github.com/YunhyoungNam/Graph_Network_DeepMind2018_pytorch/tree/main/images/shortest-path-pytorch.png)
+![shortest-path-pytorch](https://user-images.githubusercontent.com/66901621/191692240-3af9e356-0ec9-4c95-ac82-a9d441c57661.png)
 
 ##### Sort
 
 Results in the paper
-![Result in the paper](https://github.com/YunhyoungNam/Graph_Network_DeepMind2018_pytorch/tree/main/images/sort.png)
+![sort-paper](https://user-images.githubusercontent.com/66901621/191692359-cf8754b4-e99e-4c8f-aae6-aef55d52fc59.png)
+
 Results from pytorch implementation
-![Result pytorch code](https://github.com/YunhyoungNam/Graph_Network_DeepMind2018_pytorch/tree/main/images/sort-pytorch.png)
+![sort-pytorch](https://user-images.githubusercontent.com/66901621/191692460-7ead52e2-32de-4b52-a376-c5b878e43705.png)
 
 ##### Physics
 
 Results in the paper
-![Result in the paper](https://github.com/YunhyoungNam/Graph_Network_DeepMind2018_pytorch/tree/main/images/physics.png)
+![physics](https://user-images.githubusercontent.com/66901621/191692555-f576fdc9-b603-4aba-8a52-85ffe6194b81.png)
+
 Results from pytorch implementation
-![Result pytorch code](https://github.com/YunhyoungNam/Graph_Network_DeepMind2018_pytorch/tree/main/images/physics-pytorch.png)
+![physics-pytorch](https://user-images.githubusercontent.com/66901621/191692658-c1e992bf-a0b8-4e44-a94a-8eff850e43ce.png)
 
 ## Usage example
 
