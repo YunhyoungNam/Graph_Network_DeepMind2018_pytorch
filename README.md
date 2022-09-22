@@ -1,6 +1,6 @@
 # Pyorch implementation of Graph Nets by Google DeepMind
 
-![Graph Nets](https://github.com/deepmind/graph_nets) is DeepMind's library for
+[Graph Nets](https://github.com/deepmind/graph_nets) is DeepMind's library for
 building graph networks in Tensorflow and Sonnet.
 
 More details are in https://github.com/deepmind/graph_nets
@@ -15,27 +15,27 @@ Hyper-parameters are used as-is in the original code, but the inference results 
 ##### Sorest_path
 
 Results in the paper
-![Result in the paper](https://github.com/YunhyoungNam/Graph_Network_DeepMind2018_pytorch/tree/main/images/shortest-path.png)
+[Result in the paper](https://github.com/YunhyoungNam/Graph_Network_DeepMind2018_pytorch/tree/main/images/shortest-path.png)
 Results from pytorch implementation
-![Result pytorch code](https://github.com/YunhyoungNam/Graph_Network_DeepMind2018_pytorch/tree/main/images/shortest-path-pytorch.png)
+[Result pytorch code](https://github.com/YunhyoungNam/Graph_Network_DeepMind2018_pytorch/tree/main/images/shortest-path-pytorch.png)
 
 ##### Sort
 
 Results in the paper
-![Result in the paper](https://github.com/YunhyoungNam/Graph_Network_DeepMind2018_pytorch/tree/main/images/sort.png)
+[Result in the paper](https://github.com/YunhyoungNam/Graph_Network_DeepMind2018_pytorch/tree/main/images/sort.png)
 Results from pytorch implementation
-![Result pytorch code](https://github.com/YunhyoungNam/Graph_Network_DeepMind2018_pytorch/tree/main/images/sort-pytorch.png)
+[Result pytorch code](https://github.com/YunhyoungNam/Graph_Network_DeepMind2018_pytorch/tree/main/images/sort-pytorch.png)
 
 ##### Physics
 
 Results in the paper
-![Result in the paper](https://github.com/YunhyoungNam/Graph_Network_DeepMind2018_pytorch/tree/main/images/physics.png)
+[Result in the paper](https://github.com/YunhyoungNam/Graph_Network_DeepMind2018_pytorch/tree/main/images/physics.png)
 Results from pytorch implementation
-![Result pytorch code](https://github.com/YunhyoungNam/Graph_Network_DeepMind2018_pytorch/tree/main/images/physics-pytorch.png)
+[Result pytorch code](https://github.com/YunhyoungNam/Graph_Network_DeepMind2018_pytorch/tree/main/images/physics-pytorch.png)
 
 ## Usage example
 
-In order to define graph network, initial graph tuple has to be craeted.
+In order to define graph network, initial graph tuple has to be created.
 Because each block have the initial graph as the argment together with network information (e.g num_layers, dimension, activation ...)
 
 Different from the sonet of tensorflow implementation, network information of each block is defined using dictionary like belows.
@@ -56,4 +56,4 @@ net_info = {'dim' : 16,
 
 ## Demo codes
 
-To produce, run the following demo_shortestpaht.py , \_sort.pu, & \_physics.py.
+To reproduce, run the following demo_shortestpaht.py , \_sort.pu, & \_physics.py.
