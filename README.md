@@ -10,7 +10,7 @@ biases, deep learning, and graph networks](https://arxiv.org/abs/1806.01261).
 
 Hyper-parameters are used as-is in the original code, but the inference results are from other examples.
 
-##### Sorest_path
+##### Shortest_path
 
 Results in the paper
 ![shortest-path](https://user-images.githubusercontent.com/66901621/191691901-886fb80e-42b3-47a8-81bd-ec6ad413049a.png)
